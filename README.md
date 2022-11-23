@@ -64,3 +64,11 @@ Let's create this: a digital farmer tracker
         soilMosture.Append(": 99%")
       }
     }
+Cool, huh?
+
+Remember: A little bug can stop the execution of
+The code!
+
+    func **t**(A function cannot have only 1 character)
+      Print hello!
+A bug.
